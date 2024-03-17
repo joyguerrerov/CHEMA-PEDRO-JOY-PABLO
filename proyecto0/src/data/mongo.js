@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const pass = "mongodb+srv://joyguerrerov:UPgrade889@cluster0.hn43jda.mongodb.net/deber";
+const pass = ;
 
 const connectMongo = async () => {
   try {
